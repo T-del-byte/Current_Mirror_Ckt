@@ -13,7 +13,7 @@ Transistor, breadboard, Led bulb, resistor
 - Connected the emitters of Q1 and Q2 to ground.  
 - Connected the collector of Q2 to the output node to mirror the current into the load.
 - Leds are connted to the jucntion to see weather the current flowing through the transister or not.
-# output
+# Output
 The final output of the current mirror circuit is a mirrored current that is ideally equal or proportional to the reference current.
 # Key Features:
 Current Copying, Simple Implementation, Precision, Scalability.
