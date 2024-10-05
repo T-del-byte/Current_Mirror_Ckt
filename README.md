@@ -3,7 +3,7 @@
 To create a clone of the model of current mirror to show a current through one active device by controlling the current in another active device of a circuit, keeping the output current constant regardless of loading.
 # Tools & technologies
 Transistor, breadboard, Led bulb, resistor
-# Working Principle:
+# Working Principle
 - Two transistors (Q1 and Q2) are arranged such that their bases and emitters are tied together.  
 - A reference current is established . Due to the matching of the base-emitter voltages, the same current ideally producing 
 # Construction
@@ -15,7 +15,7 @@ Transistor, breadboard, Led bulb, resistor
 - Leds are connted to the jucntion to see weather the current flowing through the transister or not.
 # Output
 The final output of the current mirror circuit is a mirrored current that is ideally equal or proportional to the reference current.
-# Key Features:
+# Key Features
 Current Copying, Simple Implementation, Precision, Scalability.
-# Applications:
+# Applications
 Biasing, Active Loads, Differential Amplifiers, Current Steering.
